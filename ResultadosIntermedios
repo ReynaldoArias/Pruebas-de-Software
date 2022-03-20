@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Test;
+
+/**
+ *
+ * @author REYNALDO
+ */
+public class ResultadosIntermedios {
+    public static int player1_array_size;
+    public static int player1_primera_carta;
+    public static int player1_segunda_carta;
+    public static int player1_score;
+    
+    
+    public static int player2_array_size;
+    public static int player2_primera_carta;
+    public static int player2_segunda_carta;
+    public static int player2_score;
+      
+      
+    
+}
